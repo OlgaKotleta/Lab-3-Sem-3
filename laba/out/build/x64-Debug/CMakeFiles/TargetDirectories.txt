@@ -1,0 +1,14 @@
+I:/laba/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+I:/laba/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+I:/laba/out/build/x64-Debug/StackLib/CMakeFiles/StackLib.dir
+I:/laba/out/build/x64-Debug/StackLib/CMakeFiles/edit_cache.dir
+I:/laba/out/build/x64-Debug/StackLib/CMakeFiles/rebuild_cache.dir
+I:/laba/out/build/x64-Debug/GTestLib/CMakeFiles/GTestLib.dir
+I:/laba/out/build/x64-Debug/GTestLib/CMakeFiles/edit_cache.dir
+I:/laba/out/build/x64-Debug/GTestLib/CMakeFiles/rebuild_cache.dir
+I:/laba/out/build/x64-Debug/Samples/CMakeFiles/Samples.dir
+I:/laba/out/build/x64-Debug/Samples/CMakeFiles/edit_cache.dir
+I:/laba/out/build/x64-Debug/Samples/CMakeFiles/rebuild_cache.dir
+I:/laba/out/build/x64-Debug/Test/CMakeFiles/TestMain.dir
+I:/laba/out/build/x64-Debug/Test/CMakeFiles/edit_cache.dir
+I:/laba/out/build/x64-Debug/Test/CMakeFiles/rebuild_cache.dir
